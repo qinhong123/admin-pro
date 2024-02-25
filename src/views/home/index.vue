@@ -1,0 +1,4 @@
+<template>
+	<div>home.vue</div>
+</template>
+<style lang="scss"></style>
